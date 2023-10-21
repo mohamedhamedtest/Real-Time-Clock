@@ -1,0 +1,67 @@
+Version 4.0 HI-TECH Software Intermediate Code
+"19 mcal_layer/device_config.c
+[p x OSC  =  HS          ]
+"20
+[p x FCMEN  =  OFF       ]
+"21
+[p x IESO  =  OFF        ]
+"24
+[p x PWRT  =  OFF        ]
+"25
+[p x BOREN  =  OFF       ]
+"26
+[p x BORV  =  1          ]
+"29
+[p x WDT  =  OFF         ]
+"30
+[p x WDTPS  =  32768     ]
+"33
+[p x CCP2MX  =  PORTC    ]
+"34
+[p x PBADEN  =  OFF      ]
+"35
+[p x LPT1OSC  =  OFF     ]
+"36
+[p x MCLRE  =  ON        ]
+"39
+[p x STVREN  =  ON       ]
+"40
+[p x LVP  =  OFF         ]
+"41
+[p x XINST  =  OFF       ]
+"44
+[p x CP0  =  OFF         ]
+"45
+[p x CP1  =  OFF         ]
+"46
+[p x CP2  =  OFF         ]
+"47
+[p x CP3  =  OFF         ]
+"50
+[p x CPB  =  OFF         ]
+"51
+[p x CPD  =  OFF         ]
+"54
+[p x WRT0  =  OFF        ]
+"55
+[p x WRT1  =  OFF        ]
+"56
+[p x WRT2  =  OFF        ]
+"57
+[p x WRT3  =  OFF        ]
+"60
+[p x WRTC  =  OFF        ]
+"61
+[p x WRTB  =  OFF        ]
+"62
+[p x WRTD  =  OFF        ]
+"65
+[p x EBTR0  =  OFF       ]
+"66
+[p x EBTR1  =  OFF       ]
+"67
+[p x EBTR2  =  OFF       ]
+"68
+[p x EBTR3  =  OFF       ]
+"71
+[p x EBTRB  =  OFF       ]
